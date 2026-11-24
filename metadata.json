@@ -1,0 +1,6 @@
+{
+  "name": "AINEMAX",
+  "description": "AINEMAX — Global social media network. Connect, Create, Share, Discover.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
